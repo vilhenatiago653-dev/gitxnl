@@ -10,6 +10,7 @@ public class DemoApplication {
         System.out.println("zhuyutao zheng de chun daji zhidao m !");
         System.out.println("zhuyutao zheng de chun daji zhidao m !");
         System.out.println("zhuyutao zheng de chun daji zhidao m !");
+        System.out.println("hot-fix");
         System.out.println("master");
     }
 
