@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("zhuyutao zheng de chun daji zhidao m !");
+        System.out.println("zhuyutao zheng de chun daji zhidao m !");
     }
 
 }
